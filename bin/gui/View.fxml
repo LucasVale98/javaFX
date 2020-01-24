@@ -17,6 +17,6 @@
       <TextField fx:id="txtNumber2" layoutX="38.0" layoutY="137.0" promptText="Segundo Numero" />
       <Button fx:id="btSum" layoutX="38.0" layoutY="192.0" mnemonicParsing="false" onAction="#onBtSumAction" text="Calcular" />
       <Label layoutX="38.0" layoutY="256.0" text="Resultado = " />
-      <Label fx:id="labelResult" layoutX="98.0" layoutY="256.0" />
+      <Label fx:id="labelResult" layoutX="98.0" layoutY="256.0" prefHeight="17.0" prefWidth="0.0" />
    </children>
 </AnchorPane>
